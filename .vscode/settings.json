@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "deno.config": "./deno.jsonc",
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true
+  }
+}
